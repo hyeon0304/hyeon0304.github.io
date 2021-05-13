@@ -25,7 +25,7 @@ url                      :  "https://hyeon0304.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               :  "hyeon0304/hyeon0304.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : logo: "/assets/images/123123.png"
+logo                     : "/assets/images/123123.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
